@@ -21,3 +21,7 @@ location /auth {
 
 ## Mapper
 https://www.baeldung.com/keycloak-custom-protocol-mapper
+
+## References
+1. https://docs.oracle.com/en/learn/podman-keycloak/#what-do-you-need
+2. https://www.redhat.com/sysadmin/podman-nginx-multidomain-applications
